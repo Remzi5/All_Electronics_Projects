@@ -18,3 +18,31 @@ https://www.slideshare.net/slideshow/fet_presentation-pdf-farid-aliyev-masud-nas
 5) Voltage Regulators
 
 https://www.slideshare.net/slideshow/physics-guide-an-analysis-of-authors-m-sud-n-sirov-f-rid-liyev-tuqay-qarayev-r-mzi-huseynli-r-sad-m-mm-dov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505357
+
+# EE 201: Electronics Engineering - Individual Portfolio
+
+This repository contains my structured academic portfolio submissions for the Electronics Engineering course. The deliverables follow the required chronological sequence up to the final project integration.
+
+---
+
+## 🚀 Featured Project: Project 2.6 - Industrial Power Driver
+
+### Project Description
+An upgrade to the light-controlled power driver by introducing a dual-mode **Auto/Manual Override Switch** and a parallel **LED Status Indicator**. The system isolates a low-power sensing network from a high-power inductive load (DC Motor) using a 5V SPDT Relay and a protective Flyback Diode to suppress inductive kickback voltage spikes.
+
+### Final Deliverables (Academia.edu & YouTube Video)
+
+As per the final portfolio evaluation criteria, the verified technical documentation and the full video explanation are published below:
+
+* 📑 **Official Technical Paper (Academia.edu):** [Click Here to Read the Full Publication on Academia.edu]
+
+  * https://www.academia.edu/167374567/Electronics_Remzi_Huseynli_Advanced_Power_Driver_Circuit_with_Automated_LDR_Sensing_and_Manual_Override_Safety_Control
+  
+* 🎥 **5-Minute Technical Video Presentation (YouTube):** [Click Here to Watch the Video Demonstration on YouTube]
+* https://youtu.be/tGDmwl2WhoY?si=GXhYZHvTPB-VtjUD
+
+### Circuit Schematic & Simulation Environment
+* **Platform:** Autodesk Tinkercad
+* **Control Modes:** * **Auto Mode:** Closed-loop automatic automation via LDR and NPN transistor.
+  * **Manual Mode:** Direct sensor-bypass for maintenance and emergency operations.
+  * 
