@@ -1,6 +1,6 @@
 # Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
 #### Instructor Contact & Profiles:
-* **LinkedIn:** [Telman Askeraliyev](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* **LinkedIn:** [Telman_Askeraliyev](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 * **Instagram:** [Telman_Askeraliyev](https://www.instagram.com/physics_teacher_azerbaijan?igsh=MW1sa2trcnN3d3B2aw==)
 
 # Electronics Engineering - Individual Portfolio
