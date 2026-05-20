@@ -25,7 +25,8 @@ As per the final portfolio evaluation criteria, the verified technical documenta
 * **Control Modes:** * **Auto Mode:** Closed-loop automatic automation via LDR and NPN transistor.
   * **Manual Mode:** Direct sensor-bypass for maintenance and emergency operations.
  
-  * 
+# My_Copybook
+https://drive.google.com/file/d/1JkJW-Uvq99u-ui3yW9q3tVo36vAQ-xDm/view?usp=drivesdk
 
 # All_Electronics_Projects
 1) Understanding the capacitor
